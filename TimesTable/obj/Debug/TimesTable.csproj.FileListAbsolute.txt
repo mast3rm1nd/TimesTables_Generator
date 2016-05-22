@@ -1,0 +1,14 @@
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTable.csprojResolveAssemblyReference.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\MainWindow.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\App.g.cs
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\MainWindow.baml
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTable.Properties.Resources.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTable.csproj.GenerateResource.Cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\bin\Debug\TimesTables Generator.exe.config
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\bin\Debug\TimesTables Generator.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\bin\Debug\TimesTables Generator.pdb
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTables Generator_MarkupCompile.cache
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTables Generator_MarkupCompile.lref
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTables Generator.g.resources
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTables Generator.exe
+C:\Users\Администратор\Dropbox\!Coding\All_in_one\TimesTable\TimesTable\obj\Debug\TimesTables Generator.pdb
